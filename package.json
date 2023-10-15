@@ -2,6 +2,7 @@
   "name": "react_components",
   "version": "1.0.0",
   "description": "react_component_library_1",
+  "repository": "https://github.com/joshuasoftdev/React_Components",
   "main": "index.js",
   "scripts": {
     "test": "jest"
